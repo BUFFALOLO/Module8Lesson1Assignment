@@ -25,11 +25,11 @@ Module 8 - Lesson 1 Assignment - CSS Fundamentals
 
 *Expected Outcome: Utilize button and anchor tag elements to the page to allow users to navigate to another page for additional functionality.*
 
-*Task 2:* Use CSS to style the button with hover effects using pseudo-classes (:hover). Ensure that the button stands out and invites users to click.
+**Task 2:** Use CSS to style the button with hover effects using pseudo-classes (:hover). Ensure that the button stands out and invites users to click.
 
 *Expected Outcome: Apply CSS pseudo-class styling to add visual appeal and provide additional queues to users.*
 
-*Task 3:* Create a separate HTML file for the recipe submission form. Include form elements such as <form>, <input> fields for recipe name, ingredients, and instructions, and a submit button <button>.
+**Task 3:** Create a separate HTML file for the recipe submission form. Include form elements such as <form>, <input> fields for recipe name, ingredients, and instructions, and a submit button <button>.
 
 *Expected Outcome: Utilize CSS elements for building forms to allow users to submit multiple data to forms.*
 
